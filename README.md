@@ -7,18 +7,18 @@
 
 **** EXISTING ADMIN DETAILS ****
   1. admin username: admin
-  2. admin password: admin
+  1. admin password: admin
   
-  3. admin username: admin2
-  4. admin password: admin
+  2. admin username: admin2
+  2. admin password: admin
   
   
  **** EXISTING USER DETAILS ****
   1. username: lennon
-  2. password: johnlennon
+  1. password: johnlennon
   
-  3. username: bowie
-  4. password: davidbowie
+  2. username: bowie
+  2. password: davidbowie
   
   username: ram
   password: ram
