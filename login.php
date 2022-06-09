@@ -1,9 +1,9 @@
 <?php include "server.php";
-if(isset($_SESSION['adminname']))
+if(isset($_SESSION['adminname']))//check if admin session is active
 {
     header('location:adminpanel.php');
 }
-if(isset($_SESSION['username']))
+if(isset($_SESSION['username']))//check if user session is active
 {
     header('location:showorderlist.php');
 }
