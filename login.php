@@ -1,4 +1,13 @@
-<?php include "server.php"?>
+<?php include "server.php";
+if(isset($_SESSION['adminname']))
+{
+    header('location:adminpanel.php');
+}
+if(isset($_SESSION['username']))
+{
+    header('location:showorderlist.php');
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
