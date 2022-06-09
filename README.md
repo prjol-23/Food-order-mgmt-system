@@ -6,19 +6,19 @@
 2. Import file named "foodorderdb.sql" (Located Inside Database File Folder)
 
 **** EXISTING ADMIN DETAILS ****
-  admin username: admin
-  admin password: admin
+  1. admin username: admin
+  2. admin password: admin
   
-  admin username: admin2
-  admin password: admin
+  3. admin username: admin2
+  4. admin password: admin
   
   
  **** EXISTING USER DETAILS ****
-  username: lennon
-  password: johnlennon
+  1. username: lennon
+  2. password: johnlennon
   
-  username: bowie
-  password: davidbowie
+  3. username: bowie
+  4. password: davidbowie
   
   username: ram
   password: ram
