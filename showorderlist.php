@@ -2,6 +2,11 @@
     include "server.php";
     include "sidenav.php";
     include "topbar.php";
+
+    if($_SESSION['username']==null)
+    {
+        header('location:index.php');
+    }
 ?>
 <!DOCTYPE html>
 <html lang="en">
