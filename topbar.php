@@ -25,7 +25,7 @@
         }
           else
         { ?>
-            <a href="login.php">login</a>
+            <a href="index.php">login</a>
             <a style='cursor: not-allowed;'> You are Not Logged In.</a>
             
        <?php }?>
