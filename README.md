@@ -11,7 +11,7 @@
 "admin password: admin"
   
 "admin username: admin2"
-"admin password: admin"
+"admin password: adminho"
   
   
  **** EXISTING USER DETAILS ****
