@@ -46,7 +46,7 @@ INSERT INTO `food_table` (`food_id`, `food_name`, `food_price`) VALUES
 (1141, 'fried_rice', 180),
 (1142, 'sushi', 500);
 
--- --------------------------------------------------------
+-- ------------------------------------------------------
 
 --
 -- Table structure for table `invoice`
